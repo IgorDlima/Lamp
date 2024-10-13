@@ -21,4 +21,4 @@ Este projeto é uma lâmpada interativa desenvolvida em JavaScript Vanilla. A l�
 - CSS
 - JavaScript (Vanilla)
 
-## Como Executar o Projeto
+
